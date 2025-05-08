@@ -1,5 +1,5 @@
 {
-    "name": "𝐓𝐞𝐱𝐭 Uploader 𝐃𝐈𝐋𝐉𝐀𝐋𝐄  ™",
+    "name": "𝐓𝐞𝐱𝐭 Uploader Guddu  ™",
     "description": "Download videos from various websites using this telegram bot",
     "logo": "https://envs.sh/srE.jpg",
     "keywords": [
@@ -12,11 +12,11 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "23615498",
+            "description": "26367102",
             "required": true
         },
         "API_HASH": {
-            "description": "d53f389b7da84adc7c8518495117f556",
+            "description": "8016bf66f0ebe4d33583eb896e1a1068",
             "required": true
         },
         "BOT_TOKEN": {
